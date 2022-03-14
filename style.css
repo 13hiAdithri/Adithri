@@ -1,0 +1,12 @@
+img{
+    height: 300px;width: 450px;
+border-radius: 50%;
+border-width: 10px;
+border-style: double;
+border-color: black;
+}
+body{
+    background-color: aqua;
+    color: white;
+
+}
